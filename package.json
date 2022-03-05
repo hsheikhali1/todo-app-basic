@@ -1,0 +1,19 @@
+{
+  "name": "todo-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.13.0",
+    "@typescript-eslint/parser": "^5.13.0",
+    "eslint": "^8.10.0",
+    "parcel": "^2.3.2",
+    "typescript": "^4.6.2"
+  }
+}
